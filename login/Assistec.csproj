@@ -119,6 +119,10 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Serviços\Cliente.cs" />
+    <Compile Include="Serviços\Equipamento.cs" />
+    <Compile Include="Serviços\FolhaObra.cs" />
+    <Compile Include="Serviços\Utilizador.cs" />
     <EmbeddedResource Include="Administracao.resx">
       <DependentUpon>Administracao.cs</DependentUpon>
     </EmbeddedResource>

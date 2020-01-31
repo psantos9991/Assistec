@@ -11,6 +11,8 @@ namespace login
 {
     class Guardar
     {//conexao com a base de dados
+        
+
         SqlConnection sql = new SqlConnection(@"Integrated Security=SSPI;
                                                     Persist Security Info=False;
                                                     Initial Catalog=exiscomDatabase;
